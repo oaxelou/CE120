@@ -1,0 +1,41 @@
+Metrites gia ton arithmo sugkrisis gia tis sunartiseis: selection sort kai insertion sort:
+
+
+Selection Sort:
+
+in4.txt:
+	*** SELECITON SORT *** Comparison_counter= 4950
+in3.txt:
+	*** SELECITON SORT *** Comparison_counter= 6
+in2.txt:
+	*** SELECITON SORT *** Comparison_counter= 1
+in1.txt:
+	*** SELECITON SORT *** Comparison_counter= 1
+
+
+Insertion Sort:
+
+in4.txt:
+	*** INSERTION SORT *** Comparison_counter= 2410
+in3.txt:
+	*** INSERTION SORT *** Comparison_counter= 4
+in2.txt:
+	*** INSERTION SORT *** Comparison_counter= 0
+in1.txt:
+	*** INSERTION SORT *** Comparison_counter= 0
+
+
+SELECITON SORT: 
+Exei poluplokotita best & worst case: O(n^2).
+
+INSERTION SORT:
+Exei poluplokotita:
+	worst case: O(n^2)
+		Auti i periptwsi einai otan o pinakas einai anapoda taksinomimenos.
+	best case: O(n)
+		Auti i periptwsi einai otan einai taksinomimenos opws theloume.
+		
+
+Se auti tin periptwsi epeidi o pinakas twn onomatwn kai sta 4 arxeia eisodou den einai taksinomimenos o algorithmos tou insertion sort exei poluplokotita (< best case) kai (>worst case) , enw tou selection sort exei peripou O(n^2) kathws se kathe epanalipsi diatrexei ton pinaka olo (apo to wall mexri to teleutaio) gia na vrei to min.
+Logw autou uparxoun apokliseis: to insertion sort na kanei ligoteres sugkriseis apo oti
+to selection sort.
